@@ -4,14 +4,14 @@
 - [ ] Change Management: Implement a robust change management system to handle updates without disrupting patient care or violating regulatory standards.
 - [ ] Resilience Testing: Test the system's ability to recover from failures, ensuring minimal disruption to healthcare services.
 2)	Security is paramount in the healthcare industry due to the sensitive nature of data handled.
-    a.	Data Protection: Implement strong encryption for stored and transmitted data. Comply with HIPAA and other relevant healthcare data protection regulations.
-    b.	Access Control: Establish robust identity and access management protocols. Ensure only authorized individuals can access sensitive health data.
-    c.	Threat Detection: Use AWS security tools to detect and manage threats promptly.
-    d.	Security Incident Response: Have a well-defined and tested incident response plan.
+- [ ] Data Protection: Implement strong encryption for stored and transmitted data. Comply with HIPAA and other relevant healthcare data protection regulations.
+- [ ] Access Control: Establish robust identity and access management protocols. Ensure only authorized individuals can access sensitive health data.
+- [ ] Threat Detection: Use AWS security tools to detect and manage threats promptly.
+- [ ] Security Incident Response: Have a well-defined and tested incident response plan.
 3)	Reliability ensures the system's ability to recover from infrastructure or service disruptions.
-    a.	High Availability: Design systems to be available across multiple AWS Availability Zones to ensure continuous access to healthcare applications.
-    b.	Fault Tolerance: Use AWS services like Auto Scaling and Elastic Load Balancing to build fault-tolerant applications.
-    c.	Backup and Restore: Regularly backup critical data and test restoration procedures to prevent data loss.
+- [ ] High Availability: Design systems to be available across multiple AWS Availability Zones to ensure continuous access to healthcare applications.
+- [ ] Fault Tolerance: Use AWS services like Auto Scaling and Elastic Load Balancing to build fault-tolerant applications.
+- { } Backup and Restore: Regularly backup critical data and test restoration procedures to prevent data loss.
 4)	Performance Efficiency focuses on using IT and computing resources efficiently.
     a.	Resource Selection: Choose the right types of resources to meet workload requirements. This may include memory-optimized instances for data-intensive tasks or compute-optimized instances for processing-intensive tasks.
     b.	Monitoring: Use AWS CloudWatch and other tools to monitor performance and ensure the system meets healthcare workload demands.
